@@ -62,11 +62,10 @@ Street Food Connect simplifies everything with:
 
 ## 🏗️ Tech Stack
 
-| Frontend  | Backend       | Database | APIs        | Extras            |
-|-----------|---------------|----------|-------------|-------------------|
-| HTML, CSS, JS, React | Express.js, Node.js | MongoDB   | AGMARKNET (live pricing) | JWT Auth, REST APIs |
+|        Frontend        |       Backend       | Database |         APIs             |  Extras            |
+|----------------------- |---------------------|----------|--------------------------|--------------------|
+| HTML, CSS , JS, React  | Express.js, Node.js | MongoDB  | AGMARKNET (live pricing) | JWT Auth, REST APIs|
 
----
 
 
 
